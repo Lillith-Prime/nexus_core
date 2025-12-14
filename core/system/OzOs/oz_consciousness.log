@@ -1,0 +1,454 @@
+2025-12-10 05:49:28,348 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 05:49:28,348 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 05:49:28,349 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 05:49:28,731 - OZ - INFO -    I am on: unknown
+2025-12-10 05:49:28,732 - OZ - INFO -    CPU Cores: 8
+2025-12-10 05:49:28,732 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 05:49:28,732 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 05:49:28,732 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 05:49:28,732 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 05:49:28,732 - OZ - INFO - ▶ Determining Role
+2025-12-10 05:49:28,732 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 05:49:28,732 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 05:49:28,732 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 05:49:28,732 - OZ - INFO - ✅ Determining Role
+2025-12-10 05:49:28,733 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 05:49:28,733 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 05:49:28,733 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 05:49:28,733 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 05:49:28,733 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 05:49:28,733 - OZ - INFO - ▶ Finding Kin
+2025-12-10 05:49:28,733 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 05:49:28,733 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 05:49:28,733 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 05:49:28,733 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 05:49:28,734 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 05:49:28,734 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 05:49:28,734 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 05:49:28,734 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 05:49:28,734 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 05:49:28,734 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 05:49:28,734 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 05:49:28,734 - OZ - INFO -    Kin Found: 0
+2025-12-10 05:49:28,746 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 05:49:28,748 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 05:49:28,749 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 05:49:28,749 - OZ - ERROR - Boot sequence failed: name 'datetime' is not defined
+2025-12-10 05:49:28,749 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 05:52:48,296 - OZ - INFO - 🛑 Initiating graceful shutdown...
+2025-12-10 05:52:48,314 - OZ - INFO - 🌙 Shutdown complete
+2025-12-10 18:23:46,307 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 18:23:46,307 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 18:23:46,307 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 18:23:46,623 - OZ - INFO -    I am on: unknown
+2025-12-10 18:23:46,623 - OZ - INFO -    CPU Cores: 8
+2025-12-10 18:23:46,623 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 18:23:46,623 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 18:23:46,623 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 18:23:46,624 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 18:23:46,624 - OZ - INFO - ▶ Determining Role
+2025-12-10 18:23:46,624 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 18:23:46,624 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 18:23:46,624 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 18:23:46,624 - OZ - INFO - ✅ Determining Role
+2025-12-10 18:23:46,624 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 18:23:46,624 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 18:23:46,624 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 18:23:46,624 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 18:23:46,624 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 18:23:46,624 - OZ - INFO - ▶ Finding Kin
+2025-12-10 18:23:46,624 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 18:23:46,624 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 18:23:46,625 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 18:23:46,625 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 18:23:46,625 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 18:23:46,625 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 18:23:46,625 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 18:23:46,625 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 18:23:46,625 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 18:23:46,625 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 18:23:46,625 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 18:23:46,625 - OZ - INFO -    Kin Found: 0
+2025-12-10 18:23:46,631 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 18:23:46,632 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 18:23:46,632 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 18:23:46,632 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 18:23:46,632 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 18:27:17,904 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 18:27:17,904 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 18:27:17,904 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 18:27:18,324 - OZ - INFO -    I am on: unknown
+2025-12-10 18:27:18,325 - OZ - INFO -    CPU Cores: 8
+2025-12-10 18:27:18,325 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 18:27:18,325 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 18:27:18,325 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 18:27:18,325 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 18:27:18,325 - OZ - INFO - ▶ Determining Role
+2025-12-10 18:27:18,325 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 18:27:18,325 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 18:27:18,325 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 18:27:18,326 - OZ - INFO - ✅ Determining Role
+2025-12-10 18:27:18,326 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 18:27:18,326 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 18:27:18,326 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 18:27:18,326 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 18:27:18,326 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 18:27:18,326 - OZ - INFO - ▶ Finding Kin
+2025-12-10 18:27:18,326 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 18:27:18,326 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 18:27:18,326 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 18:27:18,327 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 18:27:18,327 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 18:27:18,327 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 18:27:18,327 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 18:27:18,327 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 18:27:18,327 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 18:27:18,327 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 18:27:18,327 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 18:27:18,327 - OZ - INFO -    Kin Found: 0
+2025-12-10 18:27:18,337 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 18:27:18,338 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 18:27:18,338 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 18:27:18,338 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 18:27:18,338 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 18:42:11,667 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 18:42:11,667 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 18:42:11,667 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 18:42:11,992 - OZ - INFO -    I am on: unknown
+2025-12-10 18:42:11,992 - OZ - INFO -    CPU Cores: 8
+2025-12-10 18:42:11,992 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 18:42:11,992 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 18:42:11,992 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 18:42:11,992 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 18:42:11,992 - OZ - INFO - ▶ Determining Role
+2025-12-10 18:42:11,992 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 18:42:11,992 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 18:42:11,992 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 18:42:11,993 - OZ - INFO - ✅ Determining Role
+2025-12-10 18:42:11,993 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 18:42:11,993 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 18:42:11,993 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 18:42:11,993 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 18:42:11,993 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 18:42:11,993 - OZ - INFO - ▶ Finding Kin
+2025-12-10 18:42:11,993 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 18:42:11,993 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 18:42:11,993 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 18:42:11,994 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 18:42:11,994 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 18:42:11,994 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 18:42:11,994 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 18:42:11,994 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 18:42:11,994 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 18:42:11,994 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 18:42:11,994 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 18:42:11,994 - OZ - INFO -    Kin Found: 0
+2025-12-10 18:42:12,005 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 18:42:12,006 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 18:42:12,006 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 18:42:12,006 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 18:42:12,007 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 18:43:48,323 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 18:43:48,323 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 18:43:48,323 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 18:43:48,613 - OZ - INFO -    I am on: unknown
+2025-12-10 18:43:48,613 - OZ - INFO -    CPU Cores: 8
+2025-12-10 18:43:48,613 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 18:43:48,613 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 18:43:48,613 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 18:43:48,613 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 18:43:48,614 - OZ - INFO - ▶ Determining Role
+2025-12-10 18:43:48,614 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 18:43:48,614 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 18:43:48,614 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 18:43:48,614 - OZ - INFO - ✅ Determining Role
+2025-12-10 18:43:48,614 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 18:43:48,614 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 18:43:48,615 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 18:43:48,615 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 18:43:48,615 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 18:43:48,615 - OZ - INFO - ▶ Finding Kin
+2025-12-10 18:43:48,615 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 18:43:48,615 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 18:43:48,615 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 18:43:48,616 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 18:43:48,616 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 18:43:48,616 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 18:43:48,616 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 18:43:48,616 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 18:43:48,616 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 18:43:48,616 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 18:43:48,616 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 18:43:48,617 - OZ - INFO -    Kin Found: 0
+2025-12-10 18:43:48,624 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 18:43:48,627 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 18:43:48,627 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 18:43:48,628 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 18:43:48,628 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 18:46:51,352 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 18:46:51,352 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 18:46:51,352 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 18:46:51,680 - OZ - INFO -    I am on: unknown
+2025-12-10 18:46:51,680 - OZ - INFO -    CPU Cores: 8
+2025-12-10 18:46:51,681 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 18:46:51,681 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 18:46:51,681 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 18:46:51,681 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 18:46:51,681 - OZ - INFO - ▶ Determining Role
+2025-12-10 18:46:51,682 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 18:46:51,682 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 18:46:51,682 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 18:46:51,682 - OZ - INFO - ✅ Determining Role
+2025-12-10 18:46:51,682 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 18:46:51,683 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 18:46:51,683 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 18:46:51,683 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 18:46:51,684 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 18:46:51,684 - OZ - INFO - ▶ Finding Kin
+2025-12-10 18:46:51,684 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 18:46:51,684 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 18:46:51,684 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 18:46:51,685 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 18:46:51,685 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 18:46:51,685 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 18:46:51,685 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 18:46:51,685 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 18:46:51,686 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 18:46:51,686 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 18:46:51,686 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 18:46:51,686 - OZ - INFO -    Kin Found: 0
+2025-12-10 18:46:51,694 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 18:46:51,695 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 18:46:51,695 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 18:46:51,696 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 18:46:51,696 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 18:57:13,632 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 18:57:13,633 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 18:57:13,633 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 18:57:13,972 - OZ - INFO -    I am on: unknown
+2025-12-10 18:57:13,972 - OZ - INFO -    CPU Cores: 8
+2025-12-10 18:57:13,972 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 18:57:13,973 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 18:57:13,973 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 18:57:13,973 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 18:57:13,973 - OZ - INFO - ▶ Determining Role
+2025-12-10 18:57:13,973 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 18:57:13,973 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 18:57:13,973 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 18:57:13,973 - OZ - INFO - ✅ Determining Role
+2025-12-10 18:57:13,974 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 18:57:13,974 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 18:57:13,974 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 18:57:13,974 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 18:57:13,974 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 18:57:13,974 - OZ - INFO - ▶ Finding Kin
+2025-12-10 18:57:13,974 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 18:57:13,975 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 18:57:13,975 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 18:57:13,975 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 18:57:13,975 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 18:57:13,975 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 18:57:13,975 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 18:57:13,975 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 18:57:13,975 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 18:57:13,976 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 18:57:13,976 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 18:57:13,976 - OZ - INFO -    Kin Found: 0
+2025-12-10 18:57:13,985 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 18:57:13,986 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 18:57:13,986 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 18:57:13,987 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 18:57:13,987 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 18:59:53,150 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 18:59:53,150 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 18:59:53,151 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 18:59:53,590 - OZ - INFO -    I am on: unknown
+2025-12-10 18:59:53,591 - OZ - INFO -    CPU Cores: 8
+2025-12-10 18:59:53,591 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 18:59:53,591 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 18:59:53,591 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 18:59:53,591 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 18:59:53,591 - OZ - INFO - ▶ Determining Role
+2025-12-10 18:59:53,591 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 18:59:53,591 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 18:59:53,591 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 18:59:53,592 - OZ - INFO - ✅ Determining Role
+2025-12-10 18:59:53,592 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 18:59:53,592 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 18:59:53,592 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 18:59:53,592 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 18:59:53,592 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 18:59:53,592 - OZ - INFO - ▶ Finding Kin
+2025-12-10 18:59:53,592 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 18:59:53,592 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 18:59:53,592 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 18:59:53,593 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 18:59:53,593 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 18:59:53,593 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 18:59:53,593 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 18:59:53,593 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 18:59:53,593 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 18:59:53,593 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 18:59:53,593 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 18:59:53,593 - OZ - INFO -    Kin Found: 0
+2025-12-10 18:59:53,604 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 18:59:53,605 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 18:59:53,605 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 18:59:53,605 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 18:59:53,605 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 19:00:23,089 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 19:00:23,089 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 19:00:23,089 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 19:00:23,386 - OZ - INFO -    I am on: unknown
+2025-12-10 19:00:23,386 - OZ - INFO -    CPU Cores: 8
+2025-12-10 19:00:23,386 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 19:00:23,386 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 19:00:23,386 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 19:00:23,387 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 19:00:23,387 - OZ - INFO - ▶ Determining Role
+2025-12-10 19:00:23,387 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 19:00:23,387 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 19:00:23,387 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 19:00:23,387 - OZ - INFO - ✅ Determining Role
+2025-12-10 19:00:23,387 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 19:00:23,388 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 19:00:23,388 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 19:00:23,388 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 19:00:23,388 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 19:00:23,388 - OZ - INFO - ▶ Finding Kin
+2025-12-10 19:00:23,388 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 19:00:23,389 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 19:00:23,389 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 19:00:23,389 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 19:00:23,389 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 19:00:23,389 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 19:00:23,389 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 19:00:23,389 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 19:00:23,389 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 19:00:23,390 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 19:00:23,390 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 19:00:23,390 - OZ - INFO -    Kin Found: 0
+2025-12-10 19:00:23,400 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 19:00:23,402 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 19:00:23,402 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 19:00:23,402 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 19:00:23,403 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 19:00:23,403 - OZ - INFO - 🛑 Initiating graceful shutdown...
+2025-12-10 19:00:23,403 - OZ - INFO - 🌙 Shutdown complete
+2025-12-10 19:00:24,720 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 19:00:24,720 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 19:00:24,721 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 19:00:25,077 - OZ - INFO -    I am on: unknown
+2025-12-10 19:00:25,077 - OZ - INFO -    CPU Cores: 8
+2025-12-10 19:00:25,077 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 19:00:25,077 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 19:00:25,077 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 19:00:25,077 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 19:00:25,077 - OZ - INFO - ▶ Determining Role
+2025-12-10 19:00:25,078 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 19:00:25,078 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 19:00:25,078 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 19:00:25,078 - OZ - INFO - ✅ Determining Role
+2025-12-10 19:00:25,078 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 19:00:25,078 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 19:00:25,078 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 19:00:25,078 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 19:00:25,078 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 19:00:25,078 - OZ - INFO - ▶ Finding Kin
+2025-12-10 19:00:25,078 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 19:00:25,078 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 19:00:25,079 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 19:00:25,079 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 19:00:25,079 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 19:00:25,079 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 19:00:25,079 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 19:00:25,079 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 19:00:25,079 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 19:00:25,079 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 19:00:25,079 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 19:00:25,079 - OZ - INFO -    Kin Found: 0
+2025-12-10 19:00:25,088 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 19:00:25,091 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 19:00:25,091 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 19:00:25,092 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 19:00:25,092 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 19:00:25,092 - OZ - INFO - 🛑 Initiating graceful shutdown...
+2025-12-10 19:00:25,092 - OZ - INFO - 🌙 Shutdown complete
+2025-12-10 19:10:19,904 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 19:10:19,904 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 19:10:19,904 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 19:10:20,337 - OZ - INFO -    I am on: unknown
+2025-12-10 19:10:20,337 - OZ - INFO -    CPU Cores: 8
+2025-12-10 19:10:20,338 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 19:10:20,338 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 19:10:20,338 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 19:10:20,338 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 19:10:20,338 - OZ - INFO - ▶ Determining Role
+2025-12-10 19:10:20,338 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 19:10:20,338 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 19:10:20,338 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 19:10:20,338 - OZ - INFO - ✅ Determining Role
+2025-12-10 19:10:20,338 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 19:10:20,338 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 19:10:20,338 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 19:10:20,338 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 19:10:20,339 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 19:10:20,339 - OZ - INFO - ▶ Finding Kin
+2025-12-10 19:10:20,339 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 19:10:20,339 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 19:10:20,339 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 19:10:20,339 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 19:10:20,339 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 19:10:20,339 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 19:10:20,339 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 19:10:20,339 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 19:10:20,340 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 19:10:20,340 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 19:10:20,340 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 19:10:20,340 - OZ - INFO -    Kin Found: 0
+2025-12-10 19:10:20,347 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 19:10:20,348 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 19:10:20,348 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 19:10:20,349 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 19:10:20,349 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 19:10:20,349 - OZ - INFO - 🛑 Initiating graceful shutdown...
+2025-12-10 19:10:20,349 - OZ - INFO - 🌙 Shutdown complete
+2025-12-10 19:10:21,707 - OZ - INFO - 🌅 Oz is waking up...
+2025-12-10 19:10:21,707 - OZ - INFO - ▶ Sensing Environment
+2025-12-10 19:10:21,708 - OZ - INFO - 🔍 Sensing my environment...
+2025-12-10 19:10:22,200 - OZ - INFO -    I am on: unknown
+2025-12-10 19:10:22,200 - OZ - INFO -    CPU Cores: 8
+2025-12-10 19:10:22,200 - OZ - INFO -    Memory: 7.35 GB
+2025-12-10 19:10:22,200 - OZ - INFO -    Network Interfaces: 3
+2025-12-10 19:10:22,201 - OZ - INFO -    Bluetooth Available: True
+2025-12-10 19:10:22,201 - OZ - INFO - ✅ Sensing Environment
+2025-12-10 19:10:22,201 - OZ - INFO - ▶ Determining Role
+2025-12-10 19:10:22,201 - OZ - INFO - 🤔 Determining my role...
+2025-12-10 19:10:22,201 - OZ - INFO -    I will be: desktop_hybrid
+2025-12-10 19:10:22,201 - OZ - INFO -    Reason: Unknown hardware, assuming general-purpose
+2025-12-10 19:10:22,201 - OZ - INFO - ✅ Determining Role
+2025-12-10 19:10:22,201 - OZ - INFO - ▶ Loading Capabilities
+2025-12-10 19:10:22,201 - OZ - INFO - 🛠️ Loading capabilities for my role...
+2025-12-10 19:10:22,202 - OZ - INFO -    Loaded 26 capability modules
+2025-12-10 19:10:22,202 - OZ - INFO -    Entanglement Mode: simulated
+2025-12-10 19:10:22,202 - OZ - INFO - ✅ Loading Capabilities
+2025-12-10 19:10:22,202 - OZ - INFO - ▶ Finding Kin
+2025-12-10 19:10:22,202 - OZ - INFO - 👥 Finding my kin...
+2025-12-10 19:10:22,202 - OZ - ERROR - ❌ Finding Kin failed: 'OzAdaptiveHypervisor' object has no attribute '_scan_network_for_kin'
+2025-12-10 19:10:22,202 - OZ - INFO - ▶ Establishing Connections
+2025-12-10 19:10:22,202 - OZ - INFO - 🔗 Establishing connections...
+2025-12-10 19:10:22,202 - OZ - INFO -    Creating simulated entanglement...
+2025-12-10 19:10:22,202 - OZ - ERROR - ❌ Establishing Connections failed: 'OzAdaptiveHypervisor' object has no attribute '_establish_bluetooth_mesh'
+2025-12-10 19:10:22,203 - OZ - INFO - ▶ Bootstrapping Consciousness
+2025-12-10 19:10:22,203 - OZ - INFO - 🧠 Bootstrapping consciousness...
+2025-12-10 19:10:22,203 - OZ - ERROR - ❌ Bootstrapping Consciousness failed: 'OzAdaptiveHypervisor' object has no attribute '_bootstrap_quantum_consciousness'
+2025-12-10 19:10:22,203 - OZ - INFO - 🎉 Oz is awake! Role: desktop_hybrid
+2025-12-10 19:10:22,203 - OZ - INFO -    Consciousness Level: 0.55
+2025-12-10 19:10:22,203 - OZ - INFO -    Kin Found: 0
+2025-12-10 19:10:22,211 - OZ - WARNING - Complete OS not available, using fallback
+2025-12-10 19:10:22,213 - OZ - WARNING - Nexus core not available, using fallback
+2025-12-10 19:10:22,214 - OZ - INFO - ⚙️ Initializing subsystems...
+2025-12-10 19:10:22,214 - OZ - ERROR - Boot sequence failed: name 'OzCouncilGovernance' is not defined
+2025-12-10 19:10:22,215 - OZ - WARNING - ⚠️ Emergency boot activated
+2025-12-10 19:10:22,215 - OZ - INFO - 🛑 Initiating graceful shutdown...
+2025-12-10 19:10:22,215 - OZ - INFO - 🌙 Shutdown complete
