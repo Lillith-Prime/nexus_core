@@ -13,7 +13,9 @@ import vendor_adapters as vendors
 BASE_DIR = "C:/Projects/LillithNew"
 CONFIG_DIR = "<YOUR_CONFIG_DIR>"  # Replace with path, e.g., C:/Lillith-Evolution/config
 
-def run_council(policy_path: str, ledger_path: str, budget_usd: float, context: dict, loki_endpoint: str = "http://loki:3100", qdrant_endpoint: str = "http://localhost:6333", qdrant_api_key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.lLaMFz2dmAHeLzqzaxBIRX1a-ZBQvD2raPrKpJD0Aj4"):
+from valhalla import registry
+
+def run_council(policy_path: str, ledger_path: str, budget_usd: float, context: dict, loki_endpoint: str = "http://loki:3100", qdrant_api_key: str = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.lLaMFz2dmAHeLzqzaxBIRX1a-ZBQvD2raPrKpJD0Aj4"):
     pe = PolicyEngine(policy_path)
     snapshot = pe.snapshot()
     
@@ -29,6 +31,13 @@ def run_council(policy_path: str, ledger_path: str, budget_usd: float, context: 
     redlines = snapshot["redlines"]
     adapter = CouncilAdapter(weights, redlines, mcp_config=json.load(open(f"{CONFIG_DIR}/config.json")))
     wallet = WalletBudgetGuard(daily_cap_usd=budget_usd, ledger_path=ledger_path)
+
+    # Discover the Qdrant endpoint from the registry
+    qdrant_endpoint = registry.discover_service("memory_cluster")
+    if not qdrant_endpoint:
+        raise ConnectionError("Could not discover memory_cluster in the registry.")
+    if not qdrant_endpoint.startswith("http"):
+        qdrant_endpoint = f"http://{qdrant_endpoint}"
 
     # Initialize Qdrant client
     qdrant = QdrantClient(url=qdrant_endpoint, api_key=qdrant_api_key)

@@ -8,7 +8,21 @@ from qdrant_client.http.models import Distance, VectorParams, PointStruct, Filte
 import httpx
 
 COL  =  os.getenv("COLLECTION_NAME", "nexus_qna")
-client  =  QdrantClient(url = os.getenv("QDRANT_URL","http://qdrant:6333"), api_key = os.getenv("QDRANT_API_KEY") or None)
+from valhalla import registry
+
+def get_qdrant_client():
+    """Initializes a Qdrant client using a discovered service address."""
+    qdrant_address = registry.discover_service("memory_cluster")
+    if not qdrant_address:
+        raise ConnectionError("Could not discover memory_cluster in the registry.")
+    
+    # The address from the registry might not include the protocol, so we add it.
+    if not qdrant_address.startswith("http"):
+        qdrant_address = f"http://{qdrant_address}"
+        
+    return QdrantClient(url=qdrant_address, api_key=os.getenv("QDRANT_API_KEY"))
+
+client = get_qdrant_client()
 PROVIDER  =  os.getenv("EMBEDDINGS_PROVIDER","local").lower()
 MODEL  =  os.getenv("EMBEDDING_MODEL","sentence-transformers/all-MiniLM-L6-v2")
 DIM  =  int(os.getenv("EMBEDDING_DIM","384"))

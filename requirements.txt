@@ -1,0 +1,14 @@
+cryptography
+docker
+flask
+gunicorn
+httpx
+modal
+networkx
+numpy
+opencv-python
+qdrant-client
+redis
+requests
+scipy
+trimesh

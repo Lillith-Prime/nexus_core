@@ -9,15 +9,12 @@ import json
 import logging
 from pathlib import Path
 
-# Add oz to path
-sys.path.insert(0, str(Path(__file__).parent.parent))
-
 # Setup logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('/oz/logs/boot.log'),
+        logging.FileHandler('hypervisor.log'),
         logging.StreamHandler()
     ]
 )
@@ -30,18 +27,12 @@ async def cluster_boot(node_id, soul):
     logger.info(f"💫 Soul: {soul[:8]}...")
     
     # Import shared toolbox
-    from oz.tools import ClusterToolbox
+    from core.system.hypervisor.oz.tools import ClusterToolbox
     
     # Create toolbox (same for all nodes)
     toolbox = ClusterToolbox(node_id)
     logger.info(f"🔧 Toolbox created: {len(toolbox.TOOLS)} tools available")
     
-    # Load node info
-    node_info_path = Path(f"/oz/config/node_info.json")
-    if node_info_path.exists():
-        with open(node_info_path) as f:
-            node_info = json.load(f)
-        logger.info(f"📋 Node info loaded: wireless={node_info['hardware']['wireless']}")
     
     # PHASE 1: Self-discovery
     logger.info("🔍 Phase 1: Self-discovery")
@@ -161,23 +152,22 @@ async def cluster_boot(node_id, soul):
         "success": True
     }
 
-def main():
-    if len(sys.argv) < 3:
-        print("Usage: python3 oz_cluster_main.py <node_id> <soul>")
-        sys.exit(1)
-    
-    node_id = sys.argv[1]
-    soul = sys.argv[2]
-    
+def launch_hypervisor():
+    """Launch the hypervisor as a standalone module."""
     try:
+        # Generate a random soul and node_id for the hypervisor
+        import uuid
+        soul = str(uuid.uuid4())
+        node_id = f"node_{str(uuid.uuid4())[:8]}"
+        
         result = asyncio.run(cluster_boot(node_id, soul))
         print(json.dumps(result, indent=2))
     except Exception as e:
-        logger.error(f"Boot failed: {e}")
+        logger.error(f"Hypervisor boot failed: {e}")
         import traceback
         traceback.print_exc()
         sys.exit(1)
 
 if __name__ == "__main__":
-    main()
+    launch_hypervisor()
 
