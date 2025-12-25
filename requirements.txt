@@ -12,3 +12,10 @@ redis
 requests
 scipy
 trimesh
+numpy
+networkx
+fastapi
+uvicorn[standard]
+psutil
+python-multipart
+websockets
